@@ -10,8 +10,8 @@ console.log(p)
 
 // script.src = 'js/dynamicNewScript.js'
 
-// document.body.append(script)
-
+// document.body.append(script)       
+    
 //consoleda korishmiz mn bizda yangi script file yaratildi va ulandi lekin bunaqa filelar 4 5ta bolishi mn shunaqa holatda universal
 //funksiya yaratish tavfsiya etiladi
 
